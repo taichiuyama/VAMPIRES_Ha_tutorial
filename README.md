@@ -1,4 +1,4 @@
-# README
+# README: tutorial for VAMPIRES Ha high-contrast imaging
 ## last update: Oct 27, 2025
 ## by Taichi Uyama
 
